@@ -5,6 +5,7 @@ def using_while
 	puts "Wingardium Leviosa"
 end
   until Wingardium Leviosa == 10
+  puts "Wingardium Leviosa"
   
 end
   #your code here
