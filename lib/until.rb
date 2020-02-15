@@ -3,5 +3,6 @@ def using_until
   Wingardium Leviosa += 1
   until Wingardium Leviosa == 10
   puts "Wingardium Leviosa"
+  end
 end
 
