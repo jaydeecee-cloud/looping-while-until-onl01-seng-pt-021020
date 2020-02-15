@@ -6,7 +6,7 @@ def using_while
 end
   until Wingardium Leviosa == 10
   puts "Wingardium Leviosa"
-  
+  Wingardium Leviosa += 1
 end
   #your code here
 end
