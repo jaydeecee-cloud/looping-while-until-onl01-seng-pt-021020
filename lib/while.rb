@@ -3,7 +3,8 @@ def using_while
 	while "Wingardium Leviosa" < 10
   "Wingardium Leviosa"
 end
-  until Wingardium Leviosa = 10
+  until Wingardium Leviosa == 10
+  
 end
   #your code here
 end
